@@ -1,5 +1,10 @@
 h1 {
     text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+
+body{
+    background: url("https://images.homedepot-static.com/productImages/6dc005e6-6afd-4079-a51d-ef3006390826/svn/chesapeake-wallpaper-has54598-64_1000.jpg");
 }
 
 #cart {
@@ -19,6 +24,7 @@ h1 {
     height: 100px;
     width: auto;
     margin: 20px;
+    border: 5px solid pink;
 }
 
 #songs p {
